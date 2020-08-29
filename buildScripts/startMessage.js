@@ -1,2 +1,4 @@
-var color = require('colors');
-console.log(color.america('Starting the app in dev mode'));
+import color from 'colors';
+
+//var color = require('colors');
+console.log(color.green('Starting the app in dev mode'));
